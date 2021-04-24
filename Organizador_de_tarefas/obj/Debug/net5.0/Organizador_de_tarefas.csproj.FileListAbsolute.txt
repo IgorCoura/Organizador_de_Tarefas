@@ -1,0 +1,16 @@
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.exe
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.deps.json
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.runtimeconfig.json
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.runtimeconfig.dev.json
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.dll
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\ref\Organizador_de_tarefas.dll
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\bin\Debug\net5.0\Organizador_de_tarefas.pdb
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.csprojAssemblyReference.cache
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.GeneratedMSBuildEditorConfig.editorconfig
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.AssemblyInfoInputs.cache
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.AssemblyInfo.cs
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.csproj.CoreCompileInputs.cache
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.dll
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\ref\Organizador_de_tarefas.dll
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.pdb
+D:\AreaDoCodigo\.Codigos\.NET\Organizador_de_tarefas\Organizador_de_tarefas\obj\Debug\net5.0\Organizador_de_tarefas.genruntimeconfig.cache
